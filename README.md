@@ -14,5 +14,4 @@ volume={37},<br />
 number={1},<br />
 month={May},<br />
 year={2024},<br />
-month={May}<br />
-}
+month={May}}
